@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,figma,react,tailwind,ai,ps,mysql,eclipse,java,maven,nodejs,selenium,postman,cypress,vscode,linux,ubuntu&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,figma,react,tailwind,typescript,ai,ps,mysql,eclipse,java,maven,nodejs,selenium,postman,cypress,vscode,linux,ubuntu&perline=14" />
   </a>
 </p>
 
